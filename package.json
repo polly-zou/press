@@ -1,0 +1,25 @@
+{
+  "name": "press",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polly-zou/press.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polly-zou/press/issues"
+  },
+  "homepage": "https://github.com/polly-zou/press#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
