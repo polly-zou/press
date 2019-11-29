@@ -24,7 +24,7 @@ module.exports = {
     nav, //导航
     sidebar, //侧边栏
   },
-  plugins: {
+  plugins: [
     routeConfig
-  }
+  ]
 }
