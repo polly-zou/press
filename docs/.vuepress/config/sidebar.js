@@ -1,7 +1,6 @@
 const WEB = [
   {
     title: "WEB",
-    collapsable: false,
     children: [
       { 
         title: "SVG",
@@ -16,11 +15,29 @@ const WEB = [
         ]
       }
     ]
-  }];
+  },
+  {
+    title: "算法",
+    children:[
+      {
+        title: "复杂度",
+        children: [
+          ['01.复杂度/01.时间复杂度.md', '时间复杂度🐣'],
+          ['01.复杂度/02.空间复杂度.md', '空间复杂度🐣'],
+        ]
+      },
+      {
+        title: "十大排序",
+        children: [
+          ['02.排序/01.快速排序.md', '快速排序'],
+        ]
+      }
+    ]
+  }
+];
 const ALGOR = [
   {
     title: "算法",
-    collapsable: false,
     children:[
       {
         title: "复杂度",
