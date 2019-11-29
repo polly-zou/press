@@ -22,6 +22,14 @@ const nav = [
         link: '/PAGE/2019-11-20-git-emoji/',
       }
     ]
+  },
+  {
+    text: '关于作者',
+    items: [{
+        text: 'GitHub',
+        link: 'https://github.com/polly-zou',
+      }
+    ]
   }
 ]
 
