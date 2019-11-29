@@ -2,8 +2,8 @@ const sidebar = require('./config/sidebar');
 const nav = require('./config/nav');
 const routeConfig = require('./plugins/routeConfig');
 module.exports = {
-  title: 'Press',
-  description: 'Press',
+  title: 'polly-ZOU',
+  description: 'polly-ZOU',
   head: [
     // 这里的 '/' 指向 docs/.vuepress/public 文件目录 
     ['link', {
