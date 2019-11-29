@@ -12,6 +12,9 @@ module.exports = {
     }]
   ],
   port:3001,
+  markdown: {
+    lineNumbers: true // 代码块显示行号
+  },
   // temp:指定客户端文件的临时目录
    // 顶部导航栏
   themeConfig: {
