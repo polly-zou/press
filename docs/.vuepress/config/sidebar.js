@@ -54,7 +54,17 @@ const ALGOR = [
       }
     ]
   }];
+
+const TOOLS = [{
+  title: "工具",
+  collapsable: false,
+  children: [
+    ['01.Git/01.GitHub-Emoji表情合集.md', 'GitHub-Emoji表情合集'],
+  ],
+}];
+
 module.exports = {
   '/web/': WEB,
-  '/算法/': ALGOR
+  '/算法/': ALGOR,
+  '/工具/': TOOLS
 }

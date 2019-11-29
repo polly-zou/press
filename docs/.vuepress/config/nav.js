@@ -32,7 +32,7 @@ const nav = [
     items: [
       {
         text: 'Emoji表情',
-        link: '/PAGE/2019-11-20-git-emoji/',
+        link: '/PAGE/2019-11-29-git-emoji/',
       }
     ]
   },
