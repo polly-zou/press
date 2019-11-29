@@ -39,5 +39,5 @@ const ALGOR = [
 ]
 module.exports = {
   '/WEB/': WEB,
-  '/ALGOR/': ALGOR
+  '/算法/': ALGOR
 }
