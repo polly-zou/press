@@ -12,6 +12,7 @@ module.exports = {
     }]
   ],
   port:3001,
+  base: '/blog/', // 部署到github会用到的配置
   markdown: {
     lineNumbers: true // 代码块显示行号
   },
